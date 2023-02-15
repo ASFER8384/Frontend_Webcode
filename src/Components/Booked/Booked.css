@@ -1,0 +1,52 @@
+.booke{
+    width: 100%;
+    height:80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.booked-wrapper{
+    width: 40%;
+    height: 70%;
+    background-color:#900C3F;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.booked{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: antiquewhite;
+    box-shadow: 1px 10px 10px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-booked{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border:none;
+    background-color: #900C3F;
+    color: white;
+
+
+}
+.inp{
+    width: 80%;
+    height: 30px;
+}
+
+.label{
+    width: 50%;
+    display: flex;
+    justify-content: start;
+}
+form{
+    width: 80%;
+}

@@ -1,0 +1,25 @@
+.profile{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile-wrapper{
+    width: 80%;
+    height: 60%;
+    background-color: aqua;
+    display: flex;
+}
+.one{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
